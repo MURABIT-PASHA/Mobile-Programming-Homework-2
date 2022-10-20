@@ -1,6 +1,6 @@
-# homework_2
+# HomeWork 2
 
-A new Flutter project.
+A basic calculator.
 
 ## Getting Started
 
